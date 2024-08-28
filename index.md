@@ -4,6 +4,24 @@ You can use the [editor on GitHub](https://github.com/kalutes/CS193_Fall18_Lab1/
 
 Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
 
+# William's First CS193 Homework
+
+**Things I enjoy about CS193 include:**
+- The chillness of the class
+- The fact that it is basically taught by peers
+- So far the homework is easy
+- I had a friend from _high school_ that is in the lecture
+- I get to make things up for this list. I am so tired rn.
+
+
+_This is italics_, **this is bold**, _**This is both**_
+
+1. A Cool [Link](https://www.youtube.com/watch?v=E4WlUXrJgy4)
+2. If you didn't like that, try [this](https://www.youtube.com/watch?v=sTgJXsinv_0)
+3. Maybe just try Python instead. `print("Hello World")`
+4. [Something about something](https://www.youtube.com/watch?v=fFcyqHzyhoQ)
+
+
 ### Markdown
 
 Markdown is a lightweight and easy-to-use syntax for styling your writing. It includes conventions for
